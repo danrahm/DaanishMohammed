@@ -1,0 +1,30 @@
+/* App.css */
+
+/* Apply background image to the body */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../public/background\ hangman.jpg"); /* Adjust path as per your project structure */
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the background image */
+  font-family: Arial, sans-serif; /* Set your preferred font family */
+  height: 100vh; /* Ensure the body covers the entire viewport height */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+/* Optional: Style for components if needed */
+.component {
+  /* Example component styling */
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Example: semi-transparent white background */
+  border-radius: 10px;
+  min-width: 1700px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Example: subtle shadow */
+}
+

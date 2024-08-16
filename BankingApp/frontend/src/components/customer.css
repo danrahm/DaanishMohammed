@@ -1,0 +1,63 @@
+/* Account components */
+#root {
+    align-items: center;
+    height: 100vh;
+
+}
+
+.account-card {
+    height: 100%;
+    margin-top: 10px;
+}
+
+.account-card .btn {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.transaction-history {
+    overflow-y: auto;
+    max-height: 300px;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.my-4, .transfer-money-label, .transaction-history-label, .overall-transaction-history-label {
+    margin-bottom: 10px;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.error-message .close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    background: none;
+    border: none;
+    font-size: 20px;
+}
+
+.center-heading {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

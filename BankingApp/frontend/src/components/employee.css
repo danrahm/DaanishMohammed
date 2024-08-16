@@ -1,0 +1,130 @@
+
+.container {
+
+  margin-top: 50px;
+
+}
+ 
+.employee-container {
+
+  background-color: #f9f9f9;
+
+  border-radius: 8px;
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  padding: 20px;
+
+}
+ 
+.employee-container h2 {
+
+  margin-bottom: 20px;
+
+  font-size: 28px; /* Increased font size */
+
+}
+ 
+.form-group {
+
+  margin-bottom: 20px;
+
+}
+ 
+.form-control {
+
+  border-radius: 4px;
+
+  font-size: 18px; /* Increased font size */
+
+  padding: 10px; /* Increased padding */
+
+}
+ 
+.account-details {
+
+  margin-top: 20px;
+
+  padding: 20px; /* Increased padding */
+
+  background-color: #ffffff;
+
+  border-radius: 8px;
+
+  border: 1px solid #e0e0e0;
+
+}
+ 
+.account-details h4 {
+
+  margin-top: 0;
+
+  font-size: 24px; /* Increased font size */
+
+}
+ 
+.account-details ul {
+
+  padding-left: 20px;
+
+}
+ 
+.account-details li {
+
+  margin-bottom: 10px; /* Increased margin */
+
+  font-size: 18px; /* Increased font size */
+
+}
+ 
+.btn {
+
+  margin-right: 10px;
+
+  font-size: 18px; /* Increased font size */
+
+  padding: 10px 20px; /* Increased padding */
+
+}
+ 
+.radio-group {
+
+  display: flex;
+
+  align-items: center;
+
+  margin-bottom: 15px; /* Added margin-bottom */
+
+}
+ 
+.radio-group label {
+
+  margin-right: 20px; /* Increased margin */
+
+  display: flex;
+
+  align-items: center;
+
+  font-size: 18px; /* Increased font size */
+
+}
+ 
+.radio-group input[type="radio"] {
+
+  margin-right: 10px; /* Increased margin */
+
+  width: 20px; /* Increased size */
+
+  height: 20px; /* Increased size */
+
+}
+ 
+.radio-group label span {
+
+  margin-left: 5px;
+
+  font-size: 18px; /* Increased font size */
+
+}
+
+ 

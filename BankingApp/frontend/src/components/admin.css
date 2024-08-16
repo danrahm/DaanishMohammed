@@ -1,0 +1,56 @@
+.admin-container {
+    min-width: 450px;
+    margin: 5rem auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+  }
+
+  .admin-container h1 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .admin-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .admin-container input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .admin-container input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  .admin-container label {
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .admin-container button:hover {
+    background-color: #0056b3;
+  }
+
+  .admin-container ul {
+    list-style-type: none;
+  }
+  
+  .message {
+    color: red;
+    margin-top: 10px;
+  }
