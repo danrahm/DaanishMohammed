@@ -1,13 +1,3 @@
-
-None selected
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-8.35 GB of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 0 minutes ago
-Currently being used in 1 other location · Details
 # Daanish Abdul Raheem Mohammed Portfolio  
 
 ---
@@ -94,5 +84,3 @@ The Mern Hello World project is a basic stack application designed to demonstrat
 
 
 [Go to repository](https://github.com/danrahm/DaanishMohammed/tree/main/MernHelloWorld)
-README.md
-Displaying README.md. 
